@@ -11,18 +11,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD, Civil and Environmental Engineering
       institution: University of Alabama, Tuscaloosa, AL, United States
       year: 2020
       description:
         - Dissertation; Toward Hyper-Resolution Hydrologic Data Assimilation Systems for Improved Predictions of Hydroclimate Extremes
-        - title: Description 3.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MSc., Civil and Environmental Engineering
+      institution: Tehran Polytechnic, Tehran, Iran
+      year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Dissertation; Rainfall-Runoff Process Modeling using Artificial Intelligence and Signal Processing Algorithms 
+    - title: BSc., Civil and Environmental Engineering
+      institution: Tabriz University, Tabriz, Iran
+      year: 2011
 
 - title: Experience
   type: time_table
