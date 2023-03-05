@@ -85,16 +85,21 @@
       institution: Portland State University, Portland, OR
       year: 01/2016 – 05/2016
 
-- title: Honors and Awards
+- title: Education and Outreach Activities
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Primary Convener; Hydrology Session, AGU Fall Meeting
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - K-12 Education; Instructor, Water and Climate Academy, Princeton University
+    - year: 2022
+      items: 
+        - Grader; CEE CEE478 Senior Thesis Oral Presentations, Princeton University
+    - year: 2022
+      items: 
+        - Moderator; MODFLOW and More Conference, Princeton University
 
 - title: Academic Interests
   type: nested_list
