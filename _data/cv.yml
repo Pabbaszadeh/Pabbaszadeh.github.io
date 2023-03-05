@@ -31,37 +31,45 @@
   contents:
     - title: Postdoctoral Research Associate
       institution: Princeton University, Princeton, NJ
-      year: 2022 - Present
+      year: 01/2022 – present
       description:
         - Project; An advanced coupled surface-subsurface hydrologic modeling and data assimilation system using LIS and ParFlow
         - Advisor; Prof. Reed Maxwell
   
     - title: Science Collaborator
       institution: Hydrological Sciences Laboratory, NASA/GSFC
-      year: 2022 - Present
+      year: 01/2022 – present
 
     - title: Postdoctoral Research Associate
       institution: University of Alabama, Tuscaloosa, AL
-      year: 2020 - 2021
+      year: 02/2020 – 12/2021
 
     - title: Graduate Research Assistant
       institution: University of Alabama, Tuscaloosa, AL
-      year: 2018 - 2020
+      year: 01/2018 – 01/2020
 
     - title: Graduate Research Assistant
       institution: Portland State University, Portland, OR
-      year: 2015 - 2017
+      year: 09/2015 – 12/2017
 
 - title: Guest Lecturer
   type: time_table
   contents:
-    - title: Uncertainty and Risk Analysis in Hydrosystems, University of Alabama, Tuscaloosa, Alabama
+
+    - title: Introduction to Remote Sensing
+      institution: Princeton University, Princeton, NJ
+      year: 10/2022
+
+    - title: Uncertainty and Risk Analysis in Hydrosystems
+      institution: University of Alabama, Tuscaloosa, AL
       year: 01/2020 – 05/2020
 
-    - title: Hydrology, University of Alabama, Tuscaloosa, Alabama
+    - title: Physical Hydrology
+      institution: University of Alabama, Tuscaloosa, AL
       year: 01/2019 – 05/2019
 
-    - title: Hydrology, Portland State University, Portland, Oregon
+    - title: Physical Hydrology
+      institution: Portland State University, Portland, OR
       year: 01/2016 – 05/2016
 
 - title: Honors and Awards
