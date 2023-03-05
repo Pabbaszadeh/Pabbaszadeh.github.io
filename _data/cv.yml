@@ -12,7 +12,6 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: topic
       items: 
         - Computational Hydrology
         - Climate Extremes
