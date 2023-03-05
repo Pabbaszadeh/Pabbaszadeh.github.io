@@ -1,4 +1,4 @@
-- title: Postdoctoral Research Associate
+- title: General Information
   type: map
   contents:
     - name: Full Name
@@ -15,11 +15,8 @@
       institution: University of Alabama, Tuscaloosa, AL, United States
       year: 2020
       description:
-        - Dissertation: Toward Hyper-Resolution Hydrologic Data Assimilation Systems for Improved Predictions of Hydroclimate Extremes
+        - Dissertation; Toward Hyper-Resolution Hydrologic Data Assimilation Systems for Improved Predictions of Hydroclimate Extremes
         - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
