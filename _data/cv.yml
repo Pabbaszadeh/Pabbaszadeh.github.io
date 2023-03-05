@@ -88,18 +88,19 @@
 - title: Education and Outreach Activities
   type: time_table
   contents:
-    - year: 2022
+    - year: 12/2022
       items: 
         - Primary Convener; Hydrology Session, AGU Fall Meeting
-    - year: 2022
+    - year: 08/2022
       items: 
         - K-12 Education; Instructor, Water and Climate Academy, Princeton University
-    - year: 2022
-      items: 
-        - Grader; CEE CEE478 Senior Thesis Oral Presentations, Princeton University
-    - year: 2022
+    - year: 05/2022
       items: 
         - Moderator; MODFLOW and More Conference, Princeton University
+    - year: 04/2022
+      items: 
+        - Grader; CEE CEE478 Senior Thesis Oral Presentations, Princeton University
+
 
 - title: Academic Interests
   type: nested_list
