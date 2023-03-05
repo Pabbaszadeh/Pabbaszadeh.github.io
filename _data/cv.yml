@@ -12,12 +12,14 @@
 - title: Research Interests
   type: nested_list
   contents:
+    - title: Studying the Surface and Subsurface Hydrologic Processes to Improve the Predictability of Extreme Hydroclimate Events under the Climate Change 
       items: 
-        - Computational Hydrology
-        - Climate Extremes
+        - Land Surface Model
+        - Surface-Subsurface Hydrology Model
+        - Remotely Sensed Observations
         - Data Assimilation
         - Machine Learning
-        - Remote Sensing
+        - High-Performance Computing
 
 - title: Education
   type: time_table
