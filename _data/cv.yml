@@ -26,7 +26,7 @@
       institution: Tabriz University, Tabriz, Iran
       year: 2011
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Postdoctoral Research Associate
@@ -52,12 +52,17 @@
       institution: Portland State University, Portland, OR
       year: 2015 - 2017
 
-- title: Open Source Projects
+- title: Guest Lecturer
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Uncertainty and Risk Analysis in Hydrosystems, University of Alabama, Tuscaloosa, Alabama
+      year: 01/2020 – 05/2020
+
+    - title: Hydrology, University of Alabama, Tuscaloosa, Alabama
+      year: 01/2019 – 05/2019
+
+    - title: Hydrology, Portland State University, Portland, Oregon
+      year: 01/2016 – 05/2016
 
 - title: Honors and Awards
   type: time_table
