@@ -8,6 +8,18 @@
     - name: Languages
       value: English, Farsi, Azeri
 
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: topic
+      items: 
+        - Computational Hydrology
+        - Climate Extremes
+        - Data Assimilation
+        - Machine Learning
+        - Remote Sensing
+
 - title: Education
   type: time_table
   contents:
