@@ -76,12 +76,12 @@ telegram_username: # your Telegram user name
 scholar_userid: https://scholar.google.com/citations?user=S8WIPdAAAAAJ&hl=en
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: https://orcid.org/0000-0002-4079-5149
+orcid_id: ##
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 osf_id: # your OSF ID
-research_gate_profile: https://www.researchgate.net/profile/Peyman-Abbaszadeh
+research_gate_profile: ##
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
@@ -100,7 +100,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note.
+
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
