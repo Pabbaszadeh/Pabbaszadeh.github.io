@@ -170,6 +170,19 @@
     - title: Please see my Google Scholar
       items:
 
+- title: Leadership Activities
+  type: time_table
+  contents:
+    - year: 2018-2019
+      items: 
+        - President of the Iranian Students Association at The University of Alabama 
+    - year: 2016-2018
+      items: 
+        - International Student Mentor and Mentor Leader at Portland State University 
+    - year: 2016-2017
+      items: 
+        - Advisory Member of the Resident Council Committee at College Housing Northwest (CHNW), Portland, Oregon 
+
 - title: Other Interests
   type: list
   contents:
