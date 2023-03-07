@@ -132,17 +132,22 @@
       items: 
         - Student Fellow of the Institute for Sustainable Solutions, Portland State University
 
-- title: Academic Interests
+- title: Professional Services
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Journal Referee
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Water Resources Research (AGU)
+        - Hydrology and Earth System Sciences (EGU)
+        - Journal of Hydrology (Elsevier)
+        - Journal of Hydrometeorology (AMS)
+        - Remote Sensing of Environment (Elsevier)
+        - Advances in Water Resources (Elsevier)
+        - Agricultural and Forest Meteorology (Elsevier)
+        - Neural Computing and Applications (Springer)
+        - Computational Geosciences (Springer)
+        - Stoch. Env. Res. & Risk Ass. (Springer) 
+        - Journal of Hydrologic Engineering (ASCE)
 
 - title: Other Interests
   type: list
