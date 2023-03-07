@@ -164,6 +164,11 @@
   contents:
     - title: Please see the Publication page above
       items:
+- title: Conference Proceedings/Presentations
+  type: nested_list
+  contents:
+    - title: Please see my Google Scholar
+      items:
 
 - title: Other Interests
   type: list
