@@ -149,6 +149,16 @@
         - Stoch. Env. Res. & Risk Ass. (Springer) 
         - Journal of Hydrologic Engineering (ASCE)
 
+- title: Professional Societies
+  type: nested_list
+  contents:
+    - title: 
+      items: 
+        - American Geophysical Union (AGU)
+        - European Geosciences Union (EGU)
+        - American Society of Civil Engineers (ASCE)
+        - Chi Epsilon, The Civil Engineering Honors Society
+
 - title: Other Interests
   type: list
   contents:
