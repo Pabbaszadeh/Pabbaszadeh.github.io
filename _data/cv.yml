@@ -4,8 +4,10 @@
     - name: Full Name
       value: Peyman Abbaszadeh
     - name: Postdoctoral Research Associate
-            Department of Civil and Environmental Engineering
-            Princeton University
+      value: 
+    - name: Department of Civil and Environmental Engineering, Princeton University
+      value: 
+
 
 - title: Research Interests
   type: nested_list
