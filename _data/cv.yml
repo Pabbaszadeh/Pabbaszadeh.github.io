@@ -159,6 +159,12 @@
         - American Society of Civil Engineers (ASCE)
         - Chi Epsilon, The Civil Engineering Honors Society
 
+- title: Publications
+  type: nested_list
+  contents:
+    - title: Please see the Publication page above
+      items:
+
 - title: Other Interests
   type: list
   contents:
