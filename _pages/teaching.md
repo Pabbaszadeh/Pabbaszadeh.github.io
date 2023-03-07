@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching and Related Activities
-description: 
+title: teaching
+description: Teaching and Related Activities
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 will be available soon!
