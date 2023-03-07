@@ -101,6 +101,21 @@
       items: 
         - Grader; CEE CEE478 Senior Thesis Oral Presentations, Princeton University
 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - Selected as the Graduate Student Engineer of the Year from the Department of Civil, Construction and Environmental Engineering, The University of Alabama 
+    - year: 2019
+      items: 
+        - Selected as the 1st place winner of the 2019 Alabama Water Resources Conference Student Poster Competition held Sep. 4-6, 2019, at the Perdido Beach Resort, Orange Beach, Alabama
+    - year: 2019
+      items: 
+        - Graduate Council Fellowship, University of Alabama
+    - year: 2018
+      items: 
+        - Student travel grant awarded from CUAHSI to participate in "The Community WRF-Hydro Modeling System Training Workshop" at NCAR
 
 - title: Academic Interests
   type: nested_list
