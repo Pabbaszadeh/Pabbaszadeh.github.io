@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image
+description: Satellite-based Hydrologic Data Assimilation for Hurricane-induced Flood Forecasting
 img: assets/img/flooding1.webp
 importance: 2
 category: completed projects
