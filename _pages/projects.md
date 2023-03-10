@@ -5,7 +5,7 @@ permalink: /projects/
 description: Please reach out to me if you are interested in knowing more about these projects!
 nav: true
 nav_order: 2
-display_categories: [work]
+display_categories: [current projects, completed projects]
 horizontal: false
 ---
 
