@@ -16,5 +16,5 @@ My research interests involve hydrologic science/water resources system analysis
 
 Below is the summary of some of the projects that I worked on in collaboration with Ph.D. students, postdocs, faculties, and scientists from multiple departments (i.e., Civil and Environmental Engineering, Computer Science, Mathematics, Geography, Geological Sciences, and Biological Sciences) and national agencies (i.e., NASA and NOAA).
 
-<strong style="font-size: 20px;">Drought Monitoring and Forecasting:</strong>
+<strong style="font-size: 16px;">Drought Monitoring and Forecasting:</strong>
 
