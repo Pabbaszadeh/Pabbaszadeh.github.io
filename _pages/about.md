@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Engineering Quad E201</p>
-    <p>Princeton University</p>
-    <p>Princeton, New Jersey 08544</p>
+    <p>EBXX</p>
+    <p>1930 SW 4th Ave Portland, OR</p>
 
 news: true  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
