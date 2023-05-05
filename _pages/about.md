@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Research Associate, Department of Civil and Environmental Engineering, Princeton University.
+subtitle: Assistant Professor, Department of Civil and Environmental Engineering, Portland State University (PSU).
 
 profile:
   align: right
