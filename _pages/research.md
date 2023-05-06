@@ -26,6 +26,7 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
         {% include figure.html path="assets/img/Figure1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<br>
 
 <strong style="font-size: 16px;">Drought Monitoring and Forecasting:</strong><br>
 Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Product System (SMOPS) and MODIS (Moderate Resolution Imaging Spectroradiometer) evapotranspiration (MODIS16 ET), at the 1-km spatial resolution, into the Variable Infiltration Capacity (VIC) hydrologic model using EPFM (Evolutionary Particle Filter with MCMC) approach for drought monitoring across Apalachicola–Chattahoochee–Flint (ACF) Basin in the southeastern United States.<br>
