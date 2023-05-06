@@ -24,7 +24,7 @@ Below is the summary of some of the projects that I worked on in collaboration w
         {% include figure.html path="assets/img/DA.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/HPC.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/HPC.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
