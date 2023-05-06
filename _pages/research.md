@@ -16,7 +16,7 @@ nav_order: 5
 <p style="text-align: justify;">My research interests involve hydrologic science/water resources system analysis and computational modeling with an emphasis on predictive science, uncertainty analysis, data analytics, and high-performance computing. My research in general focuses on advancing our understanding of the interactions between climate, hydrology, and water resources using the data sets and methods including, machine learning, remote sensing, state-of-the-art data assimilation, Bayesian inference, distributed hydrologic modeling, ensemble inference, post-processing, and multi-modeling. My diverse background and contribution to engineering projects have provided me with a broad overview of climate-water interactions and motivated me to seek solutions in a multidisciplinary manner by bridging the fields of engineering, statistics, and data science. This page gives a brief overview of past research efforts and summarizes my current research directions.<br><br>
 
 <strong style="font-size: 24px;">Past Research</strong><br>
-Below is the summary of some of the projects that I worked on in collaboration with Ph.D. students, postdocs, faculties, and scientists from multiple departments (i.e., Civil and Environmental Engineering, Computer Science, Mathematics, Geography, Geological Sciences, and Biological Sciences) and national agencies (i.e., NASA and NOAA).<br><br>
+Below is the summary of some of the projects that I worked on in collaboration with Ph.D. students, postdocs, faculties, and scientists from multiple departments and national agencies (i.e., NASA and NOAA).<br><br>
 
 <strong style="font-size: 16px;">Hydrologic Data Assimilation:</strong><br>
 Coupling a deterministic four-dimensional variational (4DVAR) assimilation method with the Particle Filter (PF) ensemble data assimilation system, to produce a robust approach for dual-state-parameter estimation. In our proposed method, the Hybrid Ensemble and Variational Data Assimilation framework for Environmental systems (HEAVEN), we characterize the model structural uncertainty in addition to model parameter and input uncertainties.<br>
@@ -29,7 +29,7 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
 <br>
 
 <strong style="font-size: 16px;">Drought Monitoring and Forecasting:</strong><br>
-Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Product System (SMOPS) and MODIS (Moderate Resolution Imaging Spectroradiometer) evapotranspiration (MODIS16 ET), at the 1-km spatial resolution, into the Variable Infiltration Capacity (VIC) hydrologic model using EPFM (Evolutionary Particle Filter with MCMC) approach for drought monitoring across Apalachicola–Chattahoochee–Flint (ACF) Basin in the southeastern United States.<br>
+Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Product System (SMOPS) and MODIS (Moderate Resolution Imaging Spectroradiometer) evapotranspiration (MODIS16 ET), at the 1-km spatial resolution, into the Variable Infiltration Capacity (VIC) hydrologic model using EPFM (Evolutionary Particle Filter with MCMC) approach for drought monitoring across Apalachicola–Chattahoochee–Flint (ACF) Basin in the southeastern United States.<br><br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
