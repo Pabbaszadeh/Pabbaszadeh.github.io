@@ -22,6 +22,7 @@ Below is the summary of some of the projects that I worked on in collaboration w
 Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Product System (SMOPS) and MODIS (Moderate Resolution Imaging Spectroradiometer) evapotranspiration (MODIS16 ET), at the 1-km spatial resolution, into the Variable Infiltration Capacity (VIC) hydrologic model using EPFM (Evolutionary Particle Filter with MCMC) approach for drought monitoring across the southeastern United States.<br>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5 mt-3 mt-md-0">
+    <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Rsearch_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
