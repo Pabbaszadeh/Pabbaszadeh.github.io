@@ -20,11 +20,8 @@ Below is the summary of some of the projects that I worked on in collaboration w
 
 <strong style="font-size: 16px;">Hydrologic Data Assimilation:</strong><br>
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/DA.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/HPC.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
