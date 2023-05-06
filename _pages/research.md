@@ -28,7 +28,7 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
 </div>
 <br>
 
-The following figure shows the Evolutionary Particle Filter with MCMC (EPFM) algorithm. In this algorithm, the prior distribution undergoes an evolutionary process based on the designed mutation and crossover operators of GA. The merit of this approach is that the particles move to an appropriate position by using the GA optimization and then the number of effective particles is increased by means of MCMC, whereby the particle degeneracy is avoided and the particle diversity is improved. Link to <a href=" https://doi.org/10.1016/j.advwatres.2017.11.011">paper</a><br>
+The following figure shows the Evolutionary Particle Filter with MCMC (EPFM) algorithm. In this algorithm, the prior distribution undergoes an evolutionary process based on the designed mutation and crossover operators of GA. The merit of this approach is that the particles move to an appropriate position by using the GA optimization and then the number of effective particles is increased by means of MCMC, whereby the particle degeneracy is avoided and the particle diversity is improved. Link to <a href=" https://doi.org/10.1016/j.advwatres.2017.11.011">paper</a><br><br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
