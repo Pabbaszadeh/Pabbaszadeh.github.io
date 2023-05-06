@@ -28,6 +28,15 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
 </div>
 <br>
 
+The following figure shows the Evolutionary Particle Filter with MCMC (EPFM) algorithm. In this algorithm, the prior distribution undergoes an evolutionary process based on the designed mutation and crossover operators of GA. The merit of this approach is that the particles move to an appropriate position by using the GA optimization and then the number of effective particles is increased by means of MCMC, whereby the particle degeneracy is avoided and the particle diversity is improved. Link to <a href=" https://doi.org/10.1016/j.advwatres.2017.11.011">paper</a><br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Figure 2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
+
 <strong style="font-size: 16px;">Drought Monitoring and Forecasting:</strong><br>
 Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Product System (SMOPS) and MODIS (Moderate Resolution Imaging Spectroradiometer) evapotranspiration (MODIS16 ET), at the 1-km spatial resolution, into the Variable Infiltration Capacity (VIC) hydrologic model using EPFM (Evolutionary Particle Filter with MCMC) approach for drought monitoring across Apalachicola–Chattahoochee–Flint (ACF) Basin in the southeastern United States.<br><br>
 
