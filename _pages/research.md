@@ -18,6 +18,15 @@ nav_order: 5
 <strong style="font-size: 24px;">Past Research</strong><br>
 Below is the summary of some of the projects that I worked on in collaboration with Ph.D. students, postdocs, faculties, and scientists from multiple departments (i.e., Civil and Environmental Engineering, Computer Science, Mathematics, Geography, Geological Sciences, and Biological Sciences) and national agencies (i.e., NASA and NOAA).<br><br>
 
+<strong style="font-size: 16px;">Hydrologic Data Assimilation:</strong><br>
+Coupling a deterministic four-dimensional variational (4DVAR) assimilation method with the Particle Filter (PF) ensemble data assimilation system, to produce a robust approach for dual-state-parameter estimation. In our proposed method, the Hybrid Ensemble and Variational Data Assimilation framework for Environmental systems (HEAVEN), we characterize the model structural uncertainty in addition to model parameter and input uncertainties.<br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Figure 1.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <strong style="font-size: 16px;">Drought Monitoring and Forecasting:</strong><br>
 Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Product System (SMOPS) and MODIS (Moderate Resolution Imaging Spectroradiometer) evapotranspiration (MODIS16 ET), at the 1-km spatial resolution, into the Variable Infiltration Capacity (VIC) hydrologic model using EPFM (Evolutionary Particle Filter with MCMC) approach for drought monitoring across Apalachicola–Chattahoochee–Flint (ACF) Basin in the southeastern United States.<br>
 
