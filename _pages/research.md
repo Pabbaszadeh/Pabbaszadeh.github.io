@@ -37,7 +37,7 @@ The following figure shows the Evolutionary Particle Filter with MCMC (EPFM) alg
 </div>
 <br>
 
-<strong style="font-size: 16px;">Drought Monitoring and Forecasting:</strong><br>
+<strong style="font-size: 16px;">Drought Monitoring and Forecasting using Satellite-based Hydrologic Data Assimilation System:</strong><br>
 Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Product System (SMOPS) and MODIS (Moderate Resolution Imaging Spectroradiometer) evapotranspiration (MODIS16 ET), at the 1-km spatial resolution, into the Variable Infiltration Capacity (VIC) hydrologic model using EPFM (Evolutionary Particle Filter with MCMC) approach for drought monitoring across Apalachicola–Chattahoochee–Flint (ACF) Basin in the southeastern United States.<br><br>
 
 <div class="row justify-content-sm-center">
