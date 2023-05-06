@@ -25,7 +25,7 @@ nav_order: 5
 <strong style="font-size: 24px;">Past Research</strong><br>
 Below is the summary of some of the projects that I worked on in collaboration with Ph.D. students, postdocs, faculties, and scientists from multiple departments and national agencies.<br><br>
 
-<strong style="font-size: 16px;">Hydrologic Data Assimilation:</strong><br>
+<strong style="font-size: 16px;">Hydrologic Data Assimilation:</strong><br><br>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/DA.png" title="example image" class="img-fluid rounded z-depth-1" %}
