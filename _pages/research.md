@@ -48,7 +48,7 @@ Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Pro
 <br>
 
 
-Assimilating satellite Soil Moisture Active Passive (SMAP) soil moisture data into the Variable Infiltration Capacity (VIC) hydrologic model to provide more reliable topsoil layer moisture (0~–5 cm) over the entire CONUS. We used a multivariate probability distribution based on a Copula function to integrate the posterior soil moisture, precipitation (from the North American Land Data Assimilation System (NLDAS)), and MODIS evapotranspiration information to develop a new integrated drought index, i.e., SPESMI. . Link to <a href=" https://doi.org/10.1016/j.rse.2020.112028">paper</a><br><br>
+Assimilating satellite Soil Moisture Active Passive (SMAP) soil moisture data into the Variable Infiltration Capacity (VIC) hydrologic model to provide more reliable topsoil layer moisture (0~–5 cm) over the entire CONUS. We used a multivariate probability distribution based on a Copula function to integrate the posterior soil moisture, precipitation (from the North American Land Data Assimilation System (NLDAS)), and MODIS evapotranspiration information to develop a new integrated drought index, i.e., SPESMI. Link to <a href=" https://doi.org/10.1016/j.rse.2020.112028">paper</a><br><br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
