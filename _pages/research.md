@@ -28,7 +28,7 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
 </div>
 <br>
 
-The following figure shows the Evolutionary Particle Filter with MCMC (EPFM) algorithm. In this algorithm, the prior distribution undergoes an evolutionary process based on the designed mutation and crossover operators of GA. The merit of this approach is that the particles move to an appropriate position by using the GA optimization and then the number of effective particles is increased by means of MCMC, whereby the particle degeneracy is avoided and the particle diversity is improved. Link to <a href=" https://doi.org/10.1016/j.advwatres.2017.11.011">paper</a><br><br>
+<p style="text-align: justify;">The following figure shows the Evolutionary Particle Filter with MCMC (EPFM) algorithm. In this algorithm, the prior distribution undergoes an evolutionary process based on the designed mutation and crossover operators of GA. The merit of this approach is that the particles move to an appropriate position by using the GA optimization and then the number of effective particles is increased by means of MCMC, whereby the particle degeneracy is avoided and the particle diversity is improved. Link to <a href=" https://doi.org/10.1016/j.advwatres.2017.11.011">paper</a><br><br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
@@ -38,7 +38,7 @@ The following figure shows the Evolutionary Particle Filter with MCMC (EPFM) alg
 <br>
 
 <strong style="font-size: 16px;">Drought Monitoring and Forecasting using Satellite-based Hydrologic Data Assimilation System:</strong><br>
-Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Product System (SMOPS) and MODIS (Moderate Resolution Imaging Spectroradiometer) evapotranspiration (MODIS16 ET), at the 1-km spatial resolution, into the Variable Infiltration Capacity (VIC) hydrologic model using EPFM (Evolutionary Particle Filter with MCMC) approach for drought monitoring across Apalachicola–Chattahoochee–Flint (ACF) Basin in the southeastern United States. Link to <a href=" https://doi.org/10.1175/JHM-D-20-0057.1">paper</a><br><br>
+<p style="text-align: justify;">Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Product System (SMOPS) and MODIS (Moderate Resolution Imaging Spectroradiometer) evapotranspiration (MODIS16 ET), at the 1-km spatial resolution, into the Variable Infiltration Capacity (VIC) hydrologic model using EPFM (Evolutionary Particle Filter with MCMC) approach for drought monitoring across Apalachicola–Chattahoochee–Flint (ACF) Basin in the southeastern United States. Link to <a href=" https://doi.org/10.1175/JHM-D-20-0057.1">paper</a><br><br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
@@ -48,7 +48,7 @@ Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Pro
 <br>
 
 
-Assimilating satellite Soil Moisture Active Passive (SMAP) soil moisture data into the Variable Infiltration Capacity (VIC) hydrologic model to provide more reliable topsoil layer moisture (0~–5 cm) over the entire CONUS. We used a multivariate probability distribution based on a Copula function to integrate the posterior soil moisture, precipitation (from the North American Land Data Assimilation System (NLDAS)), and MODIS evapotranspiration information to develop a new integrated drought index, i.e., SPESMI. Link to <a href=" https://doi.org/10.1016/j.rse.2020.112028">paper</a><br><br>
+<p style="text-align: justify;">Assimilating satellite Soil Moisture Active Passive (SMAP) soil moisture data into the Variable Infiltration Capacity (VIC) hydrologic model to provide more reliable topsoil layer moisture (0~–5 cm) over the entire CONUS. We used a multivariate probability distribution based on a Copula function to integrate the posterior soil moisture, precipitation (from the North American Land Data Assimilation System (NLDAS)), and MODIS evapotranspiration information to develop a new integrated drought index, i.e., SPESMI. Link to <a href=" https://doi.org/10.1016/j.rse.2020.112028">paper</a><br><br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
