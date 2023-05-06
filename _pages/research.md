@@ -56,7 +56,7 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
 </div>
 <br>
 
-<p style="text-align: justify;"> Assimilating SMAP soil moisture data into the Community Land Model (CLM) to improve model prediction skills and monitor drought across the Tibetan Plateau in China. Link to <a href=" https://doi.org/10.1029/2021WR029879">paper</a><br><br>
+<p style="text-align: justify;"> Assimilating SMAP soil moisture data into the Community Land Model (CLM) to improve model prediction skills and monitor drought across the Tibetan Plateau in China. This figure shows the spatial patterns of deterministic (ACC and RMSE) and probabilistic (NRR) performance measures by comparing the surface SM estimates from EPFM and ASMO+EPFM experiments with SMAP observation. Link to <a href=" https://doi.org/10.1029/2021WR029879">paper</a><br><br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
