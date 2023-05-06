@@ -25,7 +25,7 @@ Below is the summary of some of the projects that I worked on in collaboration w
     </div>
 </div>
 <br>
-Coupling a deterministic four-dimensional variational (4DVAR) assimilation method with the Particle Filter (PF) ensemble data assimilation system, to produce a robust approach for dual-state-parameter estimation. In our proposed method, the Hybrid Ensemble and Variational Data Assimilation framework for Environmental systems (HEAVEN), we characterize the model structural uncertainty in addition to model parameter and input uncertainties. Link to <a href=" https://doi.org/10.1029/2018WR023629">paper</a><br>
+Coupling a deterministic four-dimensional variational (4DVAR) assimilation method with the Particle Filter (PF) ensemble data assimilation system, to produce a robust approach for dual-state-parameter estimation. In our proposed method, the Hybrid Ensemble and Variational Data Assimilation framework for Environmental systems (HEAVEN), we characterize the model structural uncertainty in addition to model parameter and input uncertainties. Link to <a href=" https://doi.org/10.1029/2018WR023629">paper</a><br><br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
