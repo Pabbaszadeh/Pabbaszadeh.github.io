@@ -47,12 +47,20 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
 </div>
 <br>
 
-
 <p style="text-align: justify;">Assimilating satellite Soil Moisture Active Passive (SMAP) soil moisture data into the Variable Infiltration Capacity (VIC) hydrologic model to provide more reliable topsoil layer moisture (0~–5 cm) over the entire CONUS. We used a multivariate probability distribution based on a Copula function to integrate the posterior soil moisture, precipitation (from the North American Land Data Assimilation System (NLDAS)), and MODIS evapotranspiration information to develop a new integrated drought index, i.e., SPESMI. Link to <a href=" https://doi.org/10.1016/j.rse.2020.112028">paper</a><br><br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Figure 5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
+
+<p style="text-align: justify;"> Assimilating SMAP soil moisture data into the Community Land Model (CLM) to improve model prediction skills and monitor drought across the Tibetan Plateau in China. Link to <a href=" https://doi.org/10.1029/2021WR029879">paper</a><br><br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Fig7.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
