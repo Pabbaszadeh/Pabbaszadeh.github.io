@@ -110,3 +110,11 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
     </div>
 </div>
 <br>
+
+<p style="text-align: justify;"> Coupling data assimilation with the Delft 3D hydrodynamic model to account for uncertainties in compound flood hazard assessment during Hurricane Harvey and Hurricane Sandy in Galveston Bay and Delaware Bay. Link to <a href=" https://doi.org/10.1016/j.coastaleng.2021.104057">paper</a><br><br>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Compound.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
