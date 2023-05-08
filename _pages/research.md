@@ -22,7 +22,6 @@ nav_order: 5
 </div>
 <br><br>
 
-
 <strong style="font-size: 24px;">Hydrologic Data Assimilation:</strong><br><br>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
