@@ -103,3 +103,10 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
 
 <strong style="font-size: 20px;">Flood Forecasting using Satellite-based Hydrologic Data Assimilation System:</strong><br>
 <br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/flood.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
