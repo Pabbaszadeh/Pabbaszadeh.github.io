@@ -47,7 +47,8 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
 </div>
 <br>
 
-<strong style="font-size: 20px;">Drought Monitoring and Forecasting using Satellite-based Hydrologic Data Assimilation System:</strong><br><br>
+<strong style="font-size: 20px;">Drought Monitoring and Forecasting using Satellite-based Hydrologic Data Assimilation System:</strong><br>
+<br>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
