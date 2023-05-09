@@ -136,3 +136,9 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
 <br>
 
 <p style="text-align: justify;"> Utilizing Machine Learning techniques for predicting flash flood damage in the Southeast US. A large database of flash flood events consisting of more than 14000 events are assessed for training and testing the methodology. Link to <a href=" https://iopscience.iop.org/article/10.1088/1748-9326/ab6edd/meta">paper</a><br><br>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/atieh.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
