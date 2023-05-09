@@ -126,3 +126,11 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
     </div>
 </div>
 <br>
+
+<p style="text-align: justify;"> Assessing textual content from millions of tweets along with NLDAS precipitation and wind data during hurricane Harvey across several counties in southeast Texas to generate a hazard-risk awareness map during Hurricane Harvey. Link to <a href=" https://doi.org/10.1016/j.scs.2021.103577">paper</a><br><br>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/HRA.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
