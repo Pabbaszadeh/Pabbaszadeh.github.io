@@ -142,3 +142,13 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
     </div>
 </div>
 <br>
+
+<strong style="font-size: 20px;">Wildfire Data Analysis and Prediction:</strong><br>
+<br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wildfire.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
