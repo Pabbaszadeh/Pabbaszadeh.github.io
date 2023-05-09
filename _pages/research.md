@@ -118,3 +118,11 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
     </div>
 </div>
 <br>
+
+<p style="text-align: justify;"> Developing a Hydrodynamic-Hydrologic (H-H) data assimilation framework for probabilistic flood inundation mapping during Hurricane Harvey in the San Jacinto watershed in Texas. In this wor, We integrated LISFLOOD-FP hydrodynamic model with the EnKF data assimilation approach. Link to <a href=" https://hess.copernicus.org/articles/25/4995/2021/">paper</a><br><br>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/flood2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
