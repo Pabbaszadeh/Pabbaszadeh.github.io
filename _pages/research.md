@@ -162,3 +162,9 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
 <br>
 
 <p style="text-align: justify;"> Utilizing machine learning approaches to study the role of meteorological and climate variables on wildfire occurrence in the Arctic and the global tropical forests biomes. Link to <a href=" https://link.springer.com/article/10.1007/s11069-022-05452-2">paper</a><br><br>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/johanna.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
