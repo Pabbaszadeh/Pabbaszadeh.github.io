@@ -178,3 +178,11 @@ Coupling a deterministic four-dimensional variational (4DVAR) assimilation metho
     </div>
 </div>
 <br>
+
+<p style="text-align: justify;"> Developing a crop model data assimilation framework to incorporate MODIS ET observation into a crop model to increase its forecasting skill. The ensemble data assimilation approach is employed to explore the benefit of remotely sensed actual ET to improve the simulations of the widely used Priestley-Taylor ET model while accounting for uncertainties. Link to <a href=" https://doi.org/10.1016/j.agrformet.2022.108982">paper</a><br><br>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/et_da.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
