@@ -3,9 +3,9 @@
   contents:
     - name: Peyman Abbaszadeh, PhD
       value: 
-    - name: Postdoctoral Research Associate
+    - name: Assistant Professor
       value: 
-    - name: Department of Civil and Environmental Engineering, Princeton University
+    - name: Department of Civil and Environmental Engineering, Portland State University (PSU)
       value: 
 
 
@@ -44,14 +44,14 @@
   contents:
     - title: Postdoctoral Research Associate
       institution: Princeton University, Princeton, NJ
-      year: 01/2022 – present
+      year: 01/2022 – 09/2023
       description:
         - Project; An advanced coupled surface-subsurface hydrologic modeling and data assimilation system using LIS and ParFlow
         - Advisor; Prof. Reed Maxwell
   
     - title: Science Collaborator
       institution: Hydrological Sciences Laboratory, NASA/GSFC
-      year: 01/2022 – present
+      year: 01/2022 – 09/2023
 
     - title: Postdoctoral Research Associate
       institution: University of Alabama, Tuscaloosa, AL
