@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: Peyman Abbaszadeh
-           Department of Civil and Environmental Engineering, 
-           Portland State University
+
 
 news: true  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
