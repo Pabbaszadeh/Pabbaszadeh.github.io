@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: Peyman Abbaszadeh
            Engineering Building (EB) XX
+           1930 SW 4th Ave, Portland, OR 97201
 
 
 news: true  # includes a list of news items
