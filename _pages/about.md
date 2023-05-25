@@ -3,9 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Peyman Abbaszadeh
-Department of Civil and Environmental Engineering
-Director Computational Hydrology and Remote Sensing Lab
-Portland State University
 
 profile:
   align: right
