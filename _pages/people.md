@@ -17,3 +17,9 @@ Proficiency in programming languages (preferably Python)<br>
 Experience with GIS software<br>
 Excellent analytical and problem-solving skills<br>
 Strong communication and technical writing abilities.<br><br><br>
+
+<strong style="font-size: 20px;">To apply:</strong><br>
+<p style="text-align: justify;">If you are interested, please contact me with your Curriculum Vitae (CV) and a short email (titled 'Ph.D.') explaining why you are interested in joining my research group. Your CV should include your educational background with GPAs, research experience, publication record (if any), and TOEFL score (for international students).<br><br><br>
+
+<strong style="font-size: 20px;">Undergraduate Students:</strong><br>
+<p style="text-align: justify;">For joining as an undergraduate student please email me at XX. PSU students from diverse backgrounds or those who are interested in conducting their senior thesis in the area of hydrology and water resources are strongly encouraged to email me.<br><br><br>
