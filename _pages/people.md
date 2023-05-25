@@ -8,14 +8,12 @@ nav_order: 5
 ---
 
 <strong style="font-size: 20px;">PhD Opportunity:</strong><br>
-<br>
-<p style="text-align: justify;">I am seeking highly motivated and talented individuals to join my research team as Ph.D. students. I am looking for candidates interested in pursuing research at the intersection of hydrologic modeling, machine learning, and remote sensing. Women and students from underrepresented communities are strongly encouraged to apply.</a><br><br>
+<p style="text-align: justify;">I am seeking highly motivated and talented individuals to join my research team as Ph.D. students. I am looking for candidates interested in pursuing research at the intersection of hydrologic modeling, machine learning, and remote sensing. Women and students from underrepresented communities are strongly encouraged to apply.<br>
 
 <strong style="font-size: 20px;">Requirements:</strong><br>
-<br>
 <p style="text-align: justify;">A master's degree (or equivalent) in hydrology, water resources, environmental science, or a related field
 Experience in hydrologic modeling, machine learning, or remote sensing
 Proficiency in programming languages (preferably Python) 
 Experience with GIS software
 Excellent analytical and problem-solving skills
-Strong communication and technical writing abilities.</a><br><br>
+Strong communication and technical writing abilities.<br>
