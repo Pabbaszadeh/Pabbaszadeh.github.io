@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: Peyman Abbaszadeh
-           Engineering Building (EB) XX
+           EB XX
            1930 SW 4th Ave, Portland, OR 97201
 
 
