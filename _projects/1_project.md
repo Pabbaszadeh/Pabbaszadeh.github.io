@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hydrologic Data Assimilation
-description:
+title: 
+description: Hydrologic Data Assimilation
 img: assets/img/12.jpg
 importance: 1
 category: Completed Projects
