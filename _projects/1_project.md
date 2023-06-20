@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Hydrologic Data Assimilation
+description:
 img: assets/img/12.jpg
 importance: 1
 category: Completed Projects
