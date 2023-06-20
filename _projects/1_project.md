@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: HDA
 description: Hydrologic Data Assimilation
 img: assets/img/12.jpg
 importance: 1
