@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Hydrologic Modeling and Assimilation
-description:
 img: assets/img/12.jpg
 importance: 1
 category: Past Projects

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Drought Monitoring and Forecasting
-description:
 img: assets/img/3.jpg
 importance: 2
 category: Past Projects
