@@ -4,7 +4,7 @@ title: Hydrologic Modeling and Assimilation
 description: 
 img: assets/img/12.jpg
 importance: 1
-category: Completed Projects
+category: Past Projects
 ---
 
 Every project has a beautiful feature showcase page.
