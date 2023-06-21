@@ -1,7 +1,7 @@
 ---
 layout: page
-title: HDA
-description: Hydrologic Data Assimilation
+title: Hydrologic Data Assimilation
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: Completed Projects
