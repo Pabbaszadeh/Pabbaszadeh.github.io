@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hydrologic Data Assimilation
+title: Hydrologic Modeling and Assimilation
 description: 
 img: assets/img/12.jpg
 importance: 1
