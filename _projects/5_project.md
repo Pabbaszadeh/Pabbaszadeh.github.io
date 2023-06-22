@@ -3,7 +3,7 @@ layout: page
 title: Crop Yield Analysis and Forecasting
 img: assets/img/crop.png
 importance: 5
-category: Past Projects
+category: Past Research
 ---
 
 <p style="text-align: justify;"> Developing a crop model data assimilation framework to incorporate MODIS ET observation into a crop model to increase its forecasting skill. The ensemble data assimilation approach is employed to explore the benefit of remotely sensed actual ET to improve the simulations of the widely used Priestley-Taylor ET model while accounting for uncertainties. Link to <a href=" https://doi.org/10.1016/j.agrformet.2022.108982">paper</a><br><br>

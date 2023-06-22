@@ -3,7 +3,7 @@ layout: page
 title: Wildfire Data Analysis and Prediction
 img: assets/img/wildfire.png
 importance: 4
-category: Past Projects
+category: Past Research
 ---
 
 <p style="text-align: justify;"> Utilizing a suite of statistical techniques to identify the hydroclimatic variables and geomorphic characteristics contributing to the 2019–2020 Australian Bushfires. Link to <a href=" https://doi.org/10.1029/2020EF001671">paper</a><br><br>

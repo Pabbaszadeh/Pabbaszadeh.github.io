@@ -3,7 +3,7 @@ layout: page
 title: Hydrologic Modeling and Assimilation
 img: assets/img/12.jpg
 importance: 1
-category: Past Projects
+category: Past Research
 ---
 
 Coupling a deterministic four-dimensional variational (4DVAR) assimilation method with the Particle Filter (PF) ensemble data assimilation system, to produce a robust approach for dual-state-parameter estimation. In our proposed method, the Hybrid Ensemble and Variational Data Assimilation framework for Environmental systems (HEAVEN), we characterize the model structural uncertainty in addition to model parameter and input uncertainties. Link to <a href=" https://doi.org/10.1029/2018WR023629">paper</a><br><br>

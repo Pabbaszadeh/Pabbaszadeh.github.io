@@ -3,7 +3,7 @@ layout: page
 title: Flood Inundation Mapping and Forecasting
 img: assets/img/7.jpg
 importance: 3
-category: Past Projects
+category: Past Research
 ---
 
 <p style="text-align: justify;"> Coupling data assimilation with the Delft 3D hydrodynamic model to account for uncertainties in compound flood hazard assessment during Hurricane Harvey and Hurricane Sandy in Galveston Bay and Delaware Bay. Link to <a href=" https://doi.org/10.1016/j.coastaleng.2021.104057">paper</a><br><br>
