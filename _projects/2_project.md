@@ -6,74 +6,47 @@ importance: 1
 category: Past Projects
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+<p style="text-align: justify;">Assimilating two remotely sensed datasets, namely, Soil Moisture Operational Product System (SMOPS) and MODIS (Moderate Resolution Imaging Spectroradiometer) evapotranspiration (MODIS16 ET), at the 1-km spatial resolution, into the Variable Infiltration Capacity (VIC) hydrologic model using EPFM (Evolutionary Particle Filter with MCMC) approach for drought monitoring across Apalachicola–Chattahoochee–Flint (ACF) Basin in the southeastern United States. Link to <a href=" https://doi.org/10.1175/JHM-D-20-0057.1">paper</a><br><br>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Research_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<br>
 
+<p style="text-align: justify;">Assimilating satellite Soil Moisture Active Passive (SMAP) soil moisture data into the Variable Infiltration Capacity (VIC) hydrologic model to provide more reliable topsoil layer moisture (0~–5 cm) over the entire CONUS. We used a multivariate probability distribution based on a Copula function to integrate the posterior soil moisture, precipitation (from the North American Land Data Assimilation System (NLDAS)), and MODIS evapotranspiration information to develop a new integrated drought index, i.e., SPESMI. Link to <a href=" https://doi.org/10.1016/j.rse.2020.112028">paper</a><br><br>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Figure 5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
-{% endraw %}
+<br>
+
+<p style="text-align: justify;"> Assimilating SMAP soil moisture data into the Community Land Model (CLM) to improve model prediction skills and monitor drought across the Tibetan Plateau in China. This figure shows the spatial patterns of deterministic (ACC and RMSE) and probabilistic (NRR) performance measures by comparing the surface SM estimates from EPFM and ASMO+EPFM experiments with SMAP observation. Link to <a href=" https://doi.org/10.1029/2021WR029879">paper</a><br><br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Fig7.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
+
+<p style="text-align: justify;"> Utilizing a statistical approach to study the impact of tropical storms on agricultural drought in the Southeast United States. Link to <a href=" https://doi.org/10.1029/2021EF002417">paper</a><br><br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Fig_04.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
+
+<p style="text-align: justify;"> Studying the impact of different precipitation products on the land surface model data assimilation systems for drought monitoring in the United States. Link to <a href=" https://doi.org/10.1016/j.scitotenv.2022.154916">paper</a><br><br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/FD.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<br>
