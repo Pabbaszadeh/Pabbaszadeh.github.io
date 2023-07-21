@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enhancing Data Assimilation Algorithms
+title: Enhancing Hydrologic Data Assimilation Algorithms
 img: assets/img/12.jpg
 importance: 1
 category: Past Research
