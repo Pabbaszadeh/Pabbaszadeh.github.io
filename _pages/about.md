@@ -14,9 +14,14 @@ news: true  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<p style="text-align: justify; margin-right: 0.25in;">
+  I am an Assistant Professor and Director of Hydrologic Modeling and Assimilation Lab in the Department of <a href="https://www.pdx.edu/civil-environmental-engineering/">Civil and Environmental Engineering</a> at <a href="https://www.pdx.edu">Portland State University (PSU)</a>.
+</p>
 
-I am an Assistant Professor and Director of Hydrologic Modeling and Assimilation Lab in the Department of [Civil and Environmental Engineering](https://www.pdx.edu/civil-environmental-engineering/) at [Portland State University (PSU)](https://www.pdx.edu).
+<p style="text-align: justify; margin-right: 0.25in;">
+  Prior to this, I held a postdoctoral research associate position at the <a href="https://igwmc.princeton.edu">Integrated Groundwater Modeling Center</a> in the Department of Civil and Environmental Engineering at <a href="https://www.princeton.edu">Princeton University</a>, working with <a href="http://maxwell.princeton.edu">Prof. Reed Maxwell</a>. I also served as a science collaborator in the <a href="https://science.gsfc.nasa.gov/sed/bio/108710/">Hydrological Sciences Laboratory of the NASA Goddard Space Flight Center</a>. I hold a PhD in Civil and Environmental Engineering from the University of Alabama, working with <a href="https://moradkhani.ua.edu">Prof. Hamid Moradkhani</a> at <a href="https://cchr.eng.ua.edu">Center for Complex Hydrosystems Research</a>.
+</p>
 
-Prior to this, I held a postdoctoral research associate position at the [Integrated Groundwater Modeling Center](https://igwmc.princeton.edu) in the Department of Civil and Environmental Engineering at [Princeton University](https://www.princeton.edu), working with [Prof. Reed Maxwell](http://maxwell.princeton.edu). I also served as a science collaborator in the [Hydrological Sciences Laboratory of the NASA Goddard Space Flight Center](https://science.gsfc.nasa.gov/sed/bio/108710/). I hold a PhD in Civil and Environmental Engineering from the University of Alabama, working with [Prof. Hamid Moradkhani](https://moradkhani.ua.edu) at [Center for Complex Hydrosystems Research](https://cchr.eng.ua.edu).
-
-In our research group, we study the surface and subsurface hydrologic processes and their interactions to improve the predictability of extreme hydroclimate events under the climate change. In general, we seek solutions in a multidisciplinary manner by bridging the fields of engineering, statistics, and data science.
+<p style="text-align: justify; margin-right: 0.25in;">
+  In our research group, we study the surface and subsurface hydrologic processes and their interactions to improve the predictability of extreme hydroclimate events under climate change. In general, we seek solutions in a multidisciplinary manner by bridging the fields of engineering, statistics, and data science.
+</p>
