@@ -22,7 +22,7 @@ Strong communication and technical writing abilities.<br><br><br>
 <p style="text-align: justify;">If you are interested, please contact me with your Curriculum Vitae (CV) and a short email (titled 'Ph.D.') explaining why you are interested in joining my research group. Your CV should include your educational background with GPAs, research experience, publication record (if any), and TOEFL score (for international students).<br><br><br>
 
 <strong style="font-size: 20px;">M.S. Students:</strong><br>
-<p style="text-align: justify;">If you are interested in joining our group as MS student to carry out an independent research, feel free to reach out to me at XX. We are constantly looking for motivated students to support ongoing research projects.<br><br><br>
+<p style="text-align: justify;">If you are interested in joining our group as MS student to carry out an independent research, feel free to reach out to me at pabbaszadeh@pdx.edu. We are constantly looking for motivated students to support ongoing research projects.<br><br><br>
 
 <strong style="font-size: 20px;">B.S. Students:</strong><br>
-<p style="text-align: justify;">For joining as an undergraduate student please email me at XX. PSU students from diverse backgrounds or those who are interested in conducting their senior thesis in the area of hydro data science are strongly encouraged to email me.<br><br><br>
+<p style="text-align: justify;">For joining as an undergraduate student please email me at pabbaszadeh@pdx.edu. PSU students from diverse backgrounds or those who are interested in conducting their senior thesis in the area of hydro data science are strongly encouraged to email me.<br><br><br>
