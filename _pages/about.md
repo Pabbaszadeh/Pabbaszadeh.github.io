@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: <p>Peyman Abbaszadeh, PhD</p> <p>Engineering Building EB301C</p> <p>1930 SW 4th Ave, Portland, OR 97201</p>
+  address: <p>Peyman Abbaszadeh, PhD</p> <p>Engineering Building, 301C</p> <p>1930 SW 4th Ave, Portland, OR 97201</p>
 
 news: true  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
