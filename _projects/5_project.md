@@ -25,7 +25,7 @@ category: Past Research
 <p style="text-align: justify;"> Integrating multiple Deep Neural Nets by taking advantage of Copula-based Bayesian Model Averaging for probabilistic estimate of soybean crop yield over a hundred counties across three states in the United States. Link to <a href=" https://doi.org/10.1016/j.agrformet.2021.108773">paper</a><br><br>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bma.tif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/bma.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
