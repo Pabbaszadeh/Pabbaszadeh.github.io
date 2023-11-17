@@ -37,7 +37,7 @@ category: Past Research
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Fig_04.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Fig_04.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
@@ -46,7 +46,7 @@ category: Past Research
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/FD.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/FD.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
