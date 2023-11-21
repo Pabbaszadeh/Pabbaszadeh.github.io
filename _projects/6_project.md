@@ -9,7 +9,7 @@ category: Past Research
 <p style="text-align: justify;"> This work presents a new framework based on an ensemble learning method while using atmospheric and geophysical information derived from remote-sensing and ground-based observations to downscale the level 3 daily composite version (L3_SM_P) of SMAP radiometer soil moisture over the Continental United States at 1-km spatial resolution. In the proposed method, a suite of remotely sensed and in situ data sets are used, including soil texture and topography data among other information. Link to <a href=" https://doi.org/10.1029/2018WR023354">paper</a><br><br>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/SD_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SD_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
@@ -18,7 +18,7 @@ category: Past Research
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/SD_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/SD_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <br>
