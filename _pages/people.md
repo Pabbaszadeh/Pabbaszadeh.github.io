@@ -7,6 +7,13 @@ nav: true
 nav_order: 5
 ---
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lab_photo.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 <div style="display: none;">
     <strong style="font-size: 20px;">PhD Opportunity:</strong><br>
     <p style="text-align: justify;">I am seeking highly motivated and talented individuals to join my research team as Ph.D. students. I am looking for candidates interested in pursuing research at the intersection of hydrologic modeling, machine learning, and remote sensing.<br><br><br>
@@ -29,8 +36,4 @@ nav_order: 5
     <p style="text-align: justify;">For joining as an undergraduate student please email me at pabbaszadeh@pdx.edu. PSU students from diverse backgrounds or those who are interested in conducting their senior thesis in the area of hydro data science are strongly encouraged to email me.<br><br><br>
 </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/lab_photo.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+
