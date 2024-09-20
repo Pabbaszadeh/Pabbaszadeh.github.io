@@ -30,7 +30,7 @@ nav_order: 5
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="mt-1"> <!-- Margin top for spacing -->
+                    <div class="mt-0"> <!-- Margin top for spacing -->
                         <h6 style="font-size: 0.75em;">Education:</h6>
                         <p style="font-size: 0.75em;">
                             M.Sc., Civil Engineering, University of Tehran (Iran) <br>
