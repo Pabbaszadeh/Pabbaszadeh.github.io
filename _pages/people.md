@@ -18,30 +18,38 @@ nav_order: 5
 
 <div class="container">
     <div class="row">
-        <div class="col-md-4 mb-4">
-            <div class="text-center">
-                {% include figure.html path="assets/img/students/Fatemeh_Gh_750.jpg" title="Student 1" class="img-fluid rounded z-depth-1" %}
-                <h5>
-                <span style="font-size: 0.9em;">Fatemeh Gholizadeh</span><br>
-                <span style="font-size: 0.7em;">PhD student (since June 2024)</span>
-                </h5>
-                <div class="mt-3"> <!-- Margin top for spacing -->
-                <h6>Education:</h6>
-                <p>
-                    M.Sc., Civil Engineering, University of Tehran (Iran) <br>
-                    B.Sc., Civil Engineering, University of Mazandaran (Iran)
-                </p>
-                <h6>Research Interests:</h6>
-                <p>
-                    Hydrologic Modeling, Sensitivity Analysis, Drought Monitoring, Remote Sensing
-                </p>
+        <div class="col-md-6 mb-4"> <!-- Each column will take half the width -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="text-center">
+                        {% include figure.html path="assets/img/students/Fatemeh_Gh_750.jpg" title="Student 1" class="img-fluid rounded z-depth-1" %}
+                        <h5>
+                            <span style="font-size: 0.9em;">Fatemeh Gholizadeh</span><br>
+                            <span style="font-size: 0.7em;">PhD student (since June 2024)</span>
+                        </h5>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mt-3"> <!-- Margin top for spacing -->
+                        <h6>Education:</h6>
+                        <p>
+                            M.Sc., Civil Engineering, University of Tehran (Iran) <br>
+                            B.Sc., Civil Engineering, University of Mazandaran (Iran)
+                        </p>
+                        <h6>Research Interests:</h6>
+                        <p>
+                            Hydrologic Modeling, Sensitivity Analysis, Drought Monitoring, Remote Sensing
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
- 
 
-        <!-- Add more students as needed -->
+        <!-- Add more student columns as needed -->
+
     </div>
 </div>
+
 
 
 <div style="display: none;">
