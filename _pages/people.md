@@ -30,10 +30,8 @@ nav_order: 5
     </div>
 </div>
 
-
-
-
-
+<br>
+<br>
 
 <div style="display: none;">
     <strong style="font-size: 20px;">PhD Opportunity:</strong><br>
