@@ -13,6 +13,9 @@ nav_order: 5
     </div>
 </div>
 
+<br>
+<br>
+
 <div class="container">
     <div class="row">
         <div class="col-md-4 mb-4">
@@ -30,8 +33,6 @@ nav_order: 5
     </div>
 </div>
 
-<br>
-<br>
 
 <div style="display: none;">
     <strong style="font-size: 20px;">PhD Opportunity:</strong><br>
