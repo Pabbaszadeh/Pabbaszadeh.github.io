@@ -21,7 +21,10 @@ nav_order: 5
         <div class="col-md-4 mb-4">
             <div class="text-center">
                 {% include figure.html path="assets/img/students/Fatemeh_Gh_750.jpg" title="Student 1" class="img-fluid rounded z-depth-1" %}
-                <h5>Fatemeh Gholizadeh <span style="font-size: 0.8em;">(PhD student)</span></h5>
+                <h5>
+                <span style="font-size: 0.9em;">Fatemeh Gholizadeh</span> 
+                <span style="font-size: 0.7em;">(PhD student)</span>
+                </h5>
                 <p>
                     PhD student. Include details such as background, research interests, and relevant experiences.
                 </p>
