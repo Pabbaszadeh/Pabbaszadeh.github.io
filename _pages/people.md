@@ -20,8 +20,8 @@ nav_order: 5
     <div class="row">
         <div class="col-md-4 mb-4">
             <div class="text-center">
-                {% include figure.html path="assets/img/students/Fatemeh_Gh_750.jpg" title="Student 1" class="img-fluid rounded-circle z-depth-1" %}
-                <h5>Student Name 1</h5>
+                {% include figure.html path="assets/img/students/Fatemeh_Gh_750.jpg" title="Student 1" class="img-fluid rounded z-depth-1" %}
+                <h5>Fatemeh Gholizadeh</h5>
                 <p>
                     Brief biography for Student 1. Include details such as background, research interests, and relevant experiences.
                 </p>
