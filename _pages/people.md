@@ -23,10 +23,17 @@ nav_order: 5
                 {% include figure.html path="assets/img/students/Fatemeh_Gh_750.jpg" title="Student 1" class="img-fluid rounded z-depth-1" %}
                 <h5>
                 <span style="font-size: 0.9em;">Fatemeh Gholizadeh</span><br>
-                <span style="font-size: 0.7em;">PhD student</span>
+                <span style="font-size: 0.7em;">PhD student (since June 2024)</span>
                 </h5>
+                <div class="mt-3"> <!-- Margin top for spacing -->
+                <h6>Education:</h6>
                 <p>
-                    PhD student. Include details such as background, research interests, and relevant experiences.
+                    M.Sc., Civil Engineering, University of Tehran (Iran) <br>
+                    B.Sc., Civil Engineering, University of Mazandaran (Iran)
+                </p>
+                <h6>Research Interests:</h6>
+                <p>
+                    Hydrologic Modeling, Sensitivity Analysis, Model Calibration, Drought Monitoring, Remote Sensing
                 </p>
             </div>
         </div>
