@@ -26,18 +26,18 @@ nav_order: 5
                         <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
                             Fatemeh Gholizadeh
                         </h5>
-                        <span style="font-size: 0.7em;">PhD student (since June 2024)</span>
+                        <span style="font-size: 0.75em;">PhD student (since June 2024)</span>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="mt-3"> <!-- Margin top for spacing -->
-                        <h6 style="font-size: 0.7em;">Education:</h6>
-                        <p style="font-size: 0.7em;">
+                        <h6 style="font-size: 0.75em;">Education:</h6>
+                        <p style="font-size: 0.75em;">
                             M.Sc., Civil Engineering, University of Tehran (Iran) <br>
                             B.Sc., Civil Engineering, University of Mazandaran (Iran)
                         </p>
-                        <h6 style="font-size: 0.7em;">Research Interests:</h6>
-                        <p style="font-size: 0.7em;">
+                        <h6 style="font-size: 0.75em;">Research Interests:</h6>
+                        <p style="font-size: 0.75em;">
                             Hydrologic Modeling, Sensitivity Analysis, Drought Monitoring, Remote Sensing
                         </p>
                     </div>
