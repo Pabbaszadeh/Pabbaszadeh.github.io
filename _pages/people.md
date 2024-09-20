@@ -33,7 +33,7 @@ nav_order: 5
                 </p>
                 <h6>Research Interests:</h6>
                 <p>
-                    Hydrologic Modeling, Sensitivity Analysis, Model Calibration, Drought Monitoring, Remote Sensing
+                    Hydrologic Modeling, Sensitivity Analysis, Drought Monitoring, Remote Sensing
                 </p>
             </div>
         </div>
