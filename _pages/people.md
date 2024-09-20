@@ -22,7 +22,7 @@ nav_order: 5
             <div class="text-center">
                 {% include figure.html path="assets/img/students/Fatemeh_Gh_750.jpg" title="Student 1" class="img-fluid rounded z-depth-1" %}
                 <h5>
-                <span style="font-size: 0.9em;">Fatemeh Gholizadeh</span> 
+                <span style="font-size: 0.9em;">Fatemeh Gholizadeh</span><br>
                 <span style="font-size: 0.7em;">(PhD student)</span>
                 </h5>
                 <p>
