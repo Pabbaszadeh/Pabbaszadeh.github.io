@@ -53,7 +53,7 @@ nav_order: 5
                         <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
                             Ali Gholinia
                         </h5>
-                        <span style="font-size: 0.75em;">PhD student (since June 2024)</span>
+                        <span style="font-size: 0.75em;">PhD student (since September 2024)</span>
                     </div>
                 </div>
                 <div class="col-md-6">
