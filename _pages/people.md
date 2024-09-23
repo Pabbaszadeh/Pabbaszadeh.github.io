@@ -45,6 +45,32 @@ nav_order: 5
             </div>
         </div>
         <!-- Add more student columns as needed -->
+        <div class="col-md-6 mb-4"> <!-- Each column will take half the width -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="text-center">
+                        {% include figure.html path="assets/img/students/Ali.jpg" title="Student 1" class="img-fluid rounded z-depth-1" %}
+                        <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
+                            Ali Gholinia
+                        </h5>
+                        <span style="font-size: 0.75em;">PhD student (since June 2024)</span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mt-0"> <!-- Margin top for spacing -->
+                        <h6 style="font-size: 0.75em;">Education:</h6>
+                        <p style="font-size: 0.75em;">
+                            M.Sc., Civil Engineering, University of Tehran (Iran) <br>
+                            B.Sc., Civil Engineering, University of Mazandaran (Iran)
+                        </p>
+                        <h6 style="font-size: 0.75em;">Research Interests:</h6>
+                        <p style="font-size: 0.75em;">
+                            Hydrologic Modeling, Sensitivity Analysis, Drought Monitoring, Remote Sensing
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
 
     </div>
 </div>
