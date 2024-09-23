@@ -60,8 +60,8 @@ nav_order: 5
                     <div class="mt-0"> <!-- Margin top for spacing -->
                         <h6 style="font-size: 0.75em;">Education:</h6>
                         <p style="font-size: 0.75em;">
-                            M.Sc., Civil Engineering, University of Tehran (Iran) <br>
-                            B.Sc., Civil Engineering, University of Mazandaran (Iran)
+                            M.Sc., Civil Engineering, University of Tabriz (Iran) <br>
+                            B.Sc., Civil Engineering, Sahand University of Technology (Iran)
                         </p>
                         <h6 style="font-size: 0.75em;">Research Interests:</h6>
                         <p style="font-size: 0.75em;">
