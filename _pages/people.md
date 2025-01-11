@@ -17,7 +17,9 @@ nav_order: 5
 <br>
 
 <div class="container">
+    <!-- First Row with the first two students -->
     <div class="row">
+        <!-- First Student Profile -->
         <div class="col-md-6 mb-4"> <!-- Each column will take half the width -->
             <div class="row">
                 <div class="col-md-6">
@@ -44,7 +46,8 @@ nav_order: 5
                 </div>
             </div>
         </div>
-        <!-- Add more student columns as needed -->
+
+        <!-- Second Student Profile -->
         <div class="col-md-6 mb-4"> <!-- Each column will take half the width -->
             <div class="row">
                 <div class="col-md-6">
@@ -71,7 +74,65 @@ nav_order: 5
                 </div>
             </div>
         </div>
+    </div>
 
+    <!-- Second Row with the next two students -->
+    <div class="row">
+        <!-- Third Student Profile -->
+        <div class="col-md-6 mb-4"> <!-- Each column will take half the width -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="text-center">
+                        {% include figure.html path="assets/img/students/Anika.jpeg" title="Student 3" class="img-fluid rounded z-depth-1" %}
+                        <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
+                            John Doe
+                        </h5>
+                        <span style="font-size: 0.75em; margin-top: -5px;">PhD student (since  01/2025)</span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mt-0"> <!-- Margin top for spacing -->
+                        <h6 style="font-size: 0.75em;">Education:</h6>
+                        <p style="font-size: 0.75em;">
+                            M.Sc., Advanced Water Management, Cranfield University (UK) <br>
+                            B.Sc., Environmental Science, North South University (Bangladesh)
+                        </p>
+                        <h6 style="font-size: 0.75em;">Research Interests:</h6>
+                        <p style="font-size: 0.75em;">
+                            Water Resources Engineering, Flood Risk Management, Geospatial Modeling
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Fourth Student Profile -->
+        <div class="col-md-6 mb-4"> <!-- Each column will take half the width -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="text-center">
+                        {% include figure.html path="assets/img/students/Fatemeh_Sh.JPG" title="Student 4" class="img-fluid rounded z-depth-1" %}
+                        <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
+                            Sarah Lee
+                        </h5>
+                        <span style="font-size: 0.75em; margin-top: -5px;">PhD student (since  01/2025)</span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mt-0"> <!-- Margin top for spacing -->
+                        <h6 style="font-size: 0.75em;">Education:</h6>
+                        <p style="font-size: 0.75em;">
+                            M.Sc., Hydrogeology, Shahid Beheshti University, (Iran) <br>
+                            B.Sc., Geology, Shahid Beheshti University (Iran)
+                        </p>
+                        <h6 style="font-size: 0.75em;">Research Interests:</h6>
+                        <p style="font-size: 0.75em;">
+                            Groundwater modeling, hydrologic modeling, statistical hydrology
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
