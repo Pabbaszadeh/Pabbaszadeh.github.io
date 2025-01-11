@@ -99,7 +99,7 @@ nav_order: 5
                         </p>
                         <h6 style="font-size: 0.75em;">Research Interests:</h6>
                         <p style="font-size: 0.75em;">
-                            Water Resources Engineering, Flood Risk Management, Geospatial Modeling
+                            Water Resources Engineering, Flood Risk Management, Geospatial Modeling, Remote Sensing
                         </p>
                     </div>
                 </div>
@@ -127,7 +127,7 @@ nav_order: 5
                         </p>
                         <h6 style="font-size: 0.75em;">Research Interests:</h6>
                         <p style="font-size: 0.75em;">
-                            Groundwater Modeling, Hydrologic Modeling, Statistical Hydrology
+                            Groundwater Modeling, Hydrologic Modeling, Statistical Hydrology, Data Assimilation
                         </p>
                     </div>
                 </div>
