@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-09-15 15:59:00-0400
+date: 2025-01-01 15:59:00-0400
 inline: true
 ---
 
-Ali Gholinia joined our group as PhD student. Welcome Ali!
+Fatemeh Shirkhanloo joined our group as PhD student. Welcome Fatemeh!
