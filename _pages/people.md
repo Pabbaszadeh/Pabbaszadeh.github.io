@@ -85,7 +85,7 @@ nav_order: 5
                     <div class="text-center">
                         {% include figure.html path="assets/img/students/Anika.jpeg" title="Student 3" class="img-fluid rounded z-depth-1" %}
                         <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
-                            John Doe
+                            Anika Islam
                         </h5>
                         <span style="font-size: 0.75em; margin-top: -5px;">PhD student (since  01/2025)</span>
                     </div>
@@ -113,7 +113,7 @@ nav_order: 5
                     <div class="text-center">
                         {% include figure.html path="assets/img/students/Fatemeh_Sh.JPG" title="Student 4" class="img-fluid rounded z-depth-1" %}
                         <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
-                            Sarah Lee
+                            Fatemeh Shirkhanloo
                         </h5>
                         <span style="font-size: 0.75em; margin-top: -5px;">PhD student (since  01/2025)</span>
                     </div>
