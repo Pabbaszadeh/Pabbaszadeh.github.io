@@ -127,7 +127,7 @@ nav_order: 5
                         </p>
                         <h6 style="font-size: 0.75em;">Research Interests:</h6>
                         <p style="font-size: 0.75em;">
-                            Groundwater modeling, hydrologic modeling, statistical hydrology
+                            Groundwater Modeling, Hydrologic Modeling, Statistical Hydrology
                         </p>
                     </div>
                 </div>
