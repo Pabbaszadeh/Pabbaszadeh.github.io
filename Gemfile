@@ -18,8 +18,6 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'bundler'
-    gem 'uri', '1.0.3'
-    gem 'rspec'
 end
 group :other_plugins do
     gem 'feedjira'
