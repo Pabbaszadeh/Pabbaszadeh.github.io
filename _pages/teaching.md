@@ -13,7 +13,7 @@ nav_order: 5
 
 <p><strong style="font-size: 20px;">Applied Probability and Statistics in CEE</strong></p>
 
-<p style="text-align: justify;">In this course, we cover the fundamental concepts of probability and statistics. Topics include descriptive statistics for summarizing and visualizing data, probability theory including basic concepts and distributions, analysis of discrete and continuous random variables, joint distributions, sampling techniques, regression analysis, correlation, goodness-of-fit tests, and nonparametric methods. Throughout this course, I prioritize real-world applications, ensuring students develop practical problem-solving skills essential for success in all CEE disciplines.<br>
+<p style="text-align: justify;">This course covers the fundamental concepts of probability and statistics. Topics include descriptive statistics for summarizing and visualizing data, probability theory including basic concepts and distributions, analysis of discrete and continuous random variables, joint distributions, sampling techniques, regression analysis, correlation, goodness-of-fit tests, and nonparametric methods. Throughout this course, I prioritize real-world applications, ensuring students develop practical problem-solving skills essential for success in all CEE disciplines.<br>
 
 <p><strong style="font-size: 20px;">Water Resources Engineering</strong></p>
 
