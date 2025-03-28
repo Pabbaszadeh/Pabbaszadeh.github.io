@@ -338,17 +338,3 @@ mdb:
 medium_zoom:
   version: "1.0.8"
   integrity: "sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8="
-
-plugins:
-  - jekyll-paginate-v2
-
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: "/page/:num/"
-  title: "Page :num"
-  sort_field: "date"
-  sort_reverse: true
-  trail:
-    before: 2
-    after: 2
