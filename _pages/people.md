@@ -133,9 +133,40 @@ nav_order: 5
                 </div>
             </div>
         </div>
+
+        <!-- Fifth Student Profile -->
+        <div class="col-md-6 mb-4"> <!-- Each column will take half the width -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="text-center">
+                        {% include figure.html path="assets/img/students/Andy_Ma.jpg" title="Student 4" class="img-fluid rounded z-depth-1" %}
+                        <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
+                            Andy Ma
+                        </h5>
+                        <span style="font-size: 0.75em; margin-top: -5px;">Summer Intern (since  06/2025)</span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mt-0"> <!-- Margin top for spacing -->
+                        <h6 style="font-size: 0.75em;">Education:</h6>
+                        <p style="font-size: 0.75em;">
+                            Student at Jesuit High School, Beaverton, OR <br>
+                        </p>
+                        <h6 style="font-size: 0.75em;">Research Interests:</h6>
+                        <p style="font-size: 0.75em;">
+                            Environmental Engineering, Machine Learning, and Mathematics
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
     </div>
 </div>
-
 
 
 <div style="display: none;">
