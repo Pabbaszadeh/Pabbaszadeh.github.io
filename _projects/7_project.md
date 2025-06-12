@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Integrated Hydrologic Modeling and Assimilation
-img: assets/img/ongoing_1.png
-importance: 1
+title: USGS NGWOS Observation based Hydrologic Data Assimilation
+img: assets/img/ongoing_3.png
+importance: 3
 category: Ongoing Research
 ---
