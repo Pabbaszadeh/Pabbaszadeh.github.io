@@ -22,6 +22,12 @@ social: true  # includes social icons at the bottom of the page
   Prior to this, I held a postdoctoral research associate position at the Integrated Groundwater Modeling Center in the Department of Civil and Environmental Engineering at Princeton University, working with <a href="http://maxwell.princeton.edu">Prof. Reed Maxwell</a>. I hold a PhD in Civil and Environmental Engineering from the University of Alabama, working with <a href="https://moradkhani.ua.edu">Prof. Hamid Moradkhani</a> at Center for Complex Hydrosystems Research. In our research group, we study the surface and subsurface hydrologic processes and their interactions to improve the predictability of extreme hydroclimate events under climate change. In general, we seek solutions in a multidisciplinary manner by bridging the fields of engineering, statistics, and data science.
 </p>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Front_page.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 
 
