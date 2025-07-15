@@ -40,7 +40,7 @@ nav_order: 5
                         </p>
                         <h6 style="font-size: 0.75em;">Research Interests:</h6>
                         <p style="font-size: 0.75em;">
-                            Hydrologic Modeling, Sensitivity Analysis, Flood Modeling, Remote Sensing
+                            Hydrologic Modeling, Data Assimilation, Flood Modeling, Remote Sensing
                         </p>
                     </div>
                 </div>
