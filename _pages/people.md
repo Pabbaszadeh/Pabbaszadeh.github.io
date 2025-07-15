@@ -171,7 +171,7 @@ nav_order: 5
                         <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
                             Ryan McCarthy
                         </h5>
-                        <span style="font-size: 0.75em; margin-top: -5px;">Summer Intern (since  06/2025)</span>
+                        <span style="font-size: 0.75em; margin-top: -5px;">Summer Intern (since  07/2025)</span>
                     </div>
                 </div>
                 <div class="col-md-6">
