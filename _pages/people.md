@@ -99,7 +99,7 @@ nav_order: 5
                         </p>
                         <h6 style="font-size: 0.75em;">Research Interests:</h6>
                         <p style="font-size: 0.75em;">
-                            Water Resources Engineering, Flood Risk Management, Geospatial Modeling, Remote Sensing
+                            Remote Sensing, Flood Risk Management, Geospatial Modeling and Machine Learning
                         </p>
                     </div>
                 </div>
