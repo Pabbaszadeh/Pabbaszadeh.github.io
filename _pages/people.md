@@ -178,7 +178,7 @@ nav_order: 5
                     <div class="mt-0"> <!-- Margin top for spacing -->
                         <h6 style="font-size: 0.75em;">Education:</h6>
                         <p style="font-size: 0.75em;">
-                            M.Sc., M.Sc., Applied Marine and Fisheries Ecology, University of Aberdeen (UK) <br>
+                            M.Sc., Applied Marine and Fisheries Ecology, University of Aberdeen (UK) <br>
                             B.S., Marine Biology, University of Oregon
                         </p>
                         <h6 style="font-size: 0.75em;">Research Interests:</h6>
