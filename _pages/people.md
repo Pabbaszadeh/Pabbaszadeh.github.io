@@ -161,6 +161,35 @@ nav_order: 5
             </div>
         </div>
 
+        
+        <!-- Six Student Profile -->
+        <div class="col-md-6 mb-4"> <!-- Each column will take half the width -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="text-center">
+                        {% include figure.html path="assets/img/students/Ryan_McCarthy.JPG" title="Student 4" class="img-fluid rounded z-depth-1" %}
+                        <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
+                            Ryan McCarthy
+                        </h5>
+                        <span style="font-size: 0.75em; margin-top: -5px;">Summer Intern (since  06/2025)</span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mt-0"> <!-- Margin top for spacing -->
+                        <h6 style="font-size: 0.75em;">Education:</h6>
+                        <p style="font-size: 0.75em;">
+                            M.Sc., M.Sc., Applied Marine and Fisheries Ecology, University of Aberdeen (UK) <br>
+                            B.S., Marine Biology, University of Oregon
+                        </p>
+                        <h6 style="font-size: 0.75em;">Research Interests:</h6>
+                        <p style="font-size: 0.75em;">
+                            Remote Sensing, Statistics, Hydrology and Extreme Events Analysis
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 
 
 
