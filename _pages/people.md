@@ -139,15 +139,19 @@ nav_order: 5
 
 <!-- Alumni Section -->
 <div class="container">
-    <h4 class="mt-4 mb-3">Alumni</h4>
+    <h4 class="mt-4 mb-3 text-center">Alumni</h4>
 
-    <div class="row">
+    <div class="row justify-content-center">
+
         <!-- Andy Ma -->
         <div class="col-md-6 mb-4">
             <div class="row">
                 <div class="col-md-6 text-center">
-                    {% include figure.html path="assets/img/students/Andy_Ma.jpg" title="Alumni 1" class="img-fluid rounded z-depth-1" %}
-                    <h5 style="font-size: 0.9em;">Andy Ma</h5>
+                    {% include figure.html 
+                        path="assets/img/students/Andy_Ma.jpg" 
+                        title="Andy Ma" 
+                        class="img-fluid rounded z-depth-1" %}
+                    <h5 class="mt-2" style="font-size: 0.9em;">Andy Ma</h5>
                     <span style="font-size: 0.75em;">Summer Intern (2025)</span>
                 </div>
                 <div class="col-md-6">
@@ -167,8 +171,11 @@ nav_order: 5
         <div class="col-md-6 mb-4">
             <div class="row">
                 <div class="col-md-6 text-center">
-                    {% include figure.html path="assets/img/students/Ryan_McCarthy.JPG" title="Alumni 2" class="img-fluid rounded z-depth-1" %}
-                    <h5 style="font-size: 0.9em;">Ryan McCarthy</h5>
+                    {% include figure.html 
+                        path="assets/img/students/Ryan_McCarthy.JPG" 
+                        title="Ryan McCarthy" 
+                        class="img-fluid rounded z-depth-1" %}
+                    <h5 class="mt-2" style="font-size: 0.9em;">Ryan McCarthy</h5>
                     <span style="font-size: 0.75em;">Summer Intern (2025)</span>
                 </div>
                 <div class="col-md-6">
@@ -184,9 +191,9 @@ nav_order: 5
                 </div>
             </div>
         </div>
+
     </div>
 </div>
-
 
 
 
