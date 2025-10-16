@@ -139,9 +139,11 @@ nav_order: 5
 
 <!-- Alumni Section -->
 <div class="container">
-    <h4 class="mt-4 mb-3 text-center">Alumni</h4>
+    <h4 class="mt-4 mb-4" style="display: inline-block; border-bottom: 3px solid black; padding-bottom: 5px;">
+        Alumni
+    </h4>
 
-    <div class="row justify-content-center">
+    <div class="row">
 
         <!-- Andy Ma -->
         <div class="col-md-6 mb-4">
@@ -194,6 +196,7 @@ nav_order: 5
 
     </div>
 </div>
+
 
 
 
