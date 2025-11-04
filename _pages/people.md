@@ -133,8 +133,36 @@ nav_order: 5
                 </div>
             </div>
         </div>
+
+        <!-- Fifth Student Profile -->
+        <div class="col-md-6 mb-4"> <!-- Each column will take half the width -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="text-center">
+                        {% include figure.html path="assets/img/students/Kristin_Schlossman.png" title="Student 5" class="img-fluid rounded z-depth-1" %}
+                        <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
+                            Kristin Schlossman
+                        </h5>
+                        <span style="font-size: 0.75em; margin-top: -5px;">Undergraduate student (since  01/2025)</span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="mt-0"> <!-- Margin top for spacing -->
+                        <h6 style="font-size: 0.75em;">Education:</h6>
+                        <p style="font-size: 0.75em;">
+                            B.Sc., Computer Science, Portland State University<br>
+                        </p>
+                        <h6 style="font-size: 0.75em;">Research Interests:</h6>
+                        <p style="font-size: 0.75em;">
+                            Machine Learning, Data Assimilation, Computational Hydrology
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
+
 
 
 <!-- Alumni Section -->
