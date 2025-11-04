@@ -143,7 +143,7 @@ nav_order: 5
                         <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
                             Kristin Schlossman
                         </h5>
-                        <span style="font-size: 0.75em; margin-top: -5px;">Undergraduate student (since  01/2025)</span>
+                        <span style="font-size: 0.75em; margin-top: -5px;">Undergraduate student (since  10/2025)</span>
                     </div>
                 </div>
                 <div class="col-md-6">
