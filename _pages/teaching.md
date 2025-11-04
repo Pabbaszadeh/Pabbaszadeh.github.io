@@ -19,3 +19,10 @@ nav_order: 5
 
 <p style="text-align: justify;">This course covers the fundamental physics governing water movement across the land surface and subsurface. Topics include the hydrologic cycle, precipitation measurement and analysis, and key land surface processes such as evaporation, evapotranspiration, infiltration, and surface runoff. Emphasis is placed on the physical principles and governing equations for quantifying these processes, including energy balance and mass transfer approaches for evaporation, empirical and physically based models for infiltration, and rainfall-runoff relationships using hydrograph analysis. The course also covers groundwater flow principles, Darcy’s Law, aquifer storage, and reservoir water balance. Real-world applications focus on predicting water availability, designing sustainable water management systems, and solving engineering problems related to flooding, drought, and urban water demand.<br>
 
+<p><strong style="font-size: 20px;">Applied Hydrology</strong></p>
+
+<p style="text-align: justify;">This course is designed to teach students the fundamental principles of surface water hydrology and their application in hydrologic design and analysis. It covers the theory, observation, and modeling of physical processes in the land phase of the hydrologic cycle. Key topics include atmospheric radiation, water balance,
+surface energy balance, precipitation, infiltration, streamflow generation, evapotranspiration, and snowmelt.
+Additional subjects such as hydrograph analysis, flow routing, remote sensing, and statistical methods for
+hydrologic engineering projects are also discussed.<br>
+
