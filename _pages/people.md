@@ -133,18 +133,6 @@ nav_order: 5
                 </div>
             </div>
         </div>
-    </div>
-</div>
-
-
-
-<!-- Alumni Section -->
-<div class="container">
-    <h4 class="mt-4 mb-4" style="display: inline-block; border-bottom: 3px solid black; padding-bottom: 5px;">
-        Alumni
-    </h4>
-
-    <div class="row">
 
         <!-- Andy Ma -->
         <div class="col-md-6 mb-4">
@@ -155,7 +143,7 @@ nav_order: 5
                         title="Andy Ma" 
                         class="img-fluid rounded z-depth-1" %}
                     <h5 class="mt-2" style="font-size: 0.9em;">Andy Ma</h5>
-                    <span style="font-size: 0.75em;">Summer Intern (2025)</span>
+                    <span style="font-size: 0.75em;">High-School Intern (2025)</span>
                 </div>
                 <div class="col-md-6">
                     <h6 style="font-size: 0.75em;">Education:</h6>
@@ -169,7 +157,18 @@ nav_order: 5
                 </div>
             </div>
         </div>
+    </div>
+</div>
 
+
+
+<!-- Alumni Section -->
+<div class="container">
+    <h4 class="mt-4 mb-4" style="display: inline-block; border-bottom: 3px solid black; padding-bottom: 5px;">
+        Alumni
+    </h4>
+
+    <div class="row">
         <!-- Ryan McCarthy -->
         <div class="col-md-6 mb-4">
             <div class="row">
@@ -204,7 +203,7 @@ nav_order: 5
                         <h5 style="font-size: 0.9em;"> <!-- Applicant name -->
                             Kristin Schlossman
                         </h5>
-                        <span style="font-size: 0.75em; margin-top: -5px;">Undergraduate student (since  10/2025)</span>
+                        <span style="font-size: 0.75em; margin-top: -5px;">Undergraduate student (10/2025-03/2026)</span>
                     </div>
                 </div>
                 <div class="col-md-6">
